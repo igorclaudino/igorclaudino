@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=igorclaudino&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/igorclaudino)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=igorclaudino&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/igorclaudino)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorclaudino&layout=compact)](https://github.com/igorclaudino)
 
