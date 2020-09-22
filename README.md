@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorclaudino&layout=compact)](https://github.com/igorclaudino)
 
-[![igorclaudino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grakt)](https://github.com/igorclaudino)
-
