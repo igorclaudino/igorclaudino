@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Federal University of Ceará
+- 🌱 I’m currently learning node, ReactJS, VueJS...
+
 <!--
 **igorclaudino/igorclaudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=igorclaudino&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/igorclaudino)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorclaudino&layout=compact)](https://github.com/igorclaudino)
