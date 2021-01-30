@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Federal University of Ceará
-- 🌱 I’m currently learning node, ReactJS, VueJS...
+
 
 <p align="center">  
  <a href="https://www.linkedin.com/in/igorclaudino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igor%20Claudino-blue?logo=linkedin?logo=linkedin"></a>
