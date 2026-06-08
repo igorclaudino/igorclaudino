@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vipcommerce
+- 🔭 I’m currently working on PicPay
 
 <p align="center">  
  <a href="https://www.linkedin.com/in/igorclaudino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igor%20Claudino-blue?logo=linkedin?logo=linkedin"></a>
